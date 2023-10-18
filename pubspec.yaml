@@ -1,0 +1,39 @@
+name: bracketschat
+description: Brackets Soft Chat Application
+publish_to: none
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.6 <3.0.0"
+
+dependencies:
+  auto_size_text: ^3.0.0
+  build_runner: ^2.2.0
+  cloud_firestore: ^3.4.3
+  cupertino_icons: ^1.0.2
+  easy_localization: ^3.0.1
+  firebase_analytics: ^9.3.0
+  firebase_auth: ^3.6.2
+  firebase_core: ^1.20.0
+  flutter:
+    sdk: flutter
+  flutter_mobx: ^2.0.6+1
+  flutter_svg: ^1.1.4
+  google_sign_in: ^5.4.0
+  mobx: ^2.0.7+5
+  mobx_codegen: ^2.0.7
+  provider: ^6.0.3
+  shared_preferences: ^2.0.15
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/image/
+    - assets/svg/
+    - assets/language/

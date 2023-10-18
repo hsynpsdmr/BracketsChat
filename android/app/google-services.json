@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "403745440294",
+    "project_id": "bracketschat",
+    "storage_bucket": "bracketschat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403745440294:android:3bae125cca76970afddce7",
+        "android_client_info": {
+          "package_name": "com.bracketssoft.bracketschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403745440294-ftvhun739190hufpu0o2hqc0p6butths.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bracketssoft.bracketschat",
+            "certificate_hash": "aead9c5a744b02018a868d98cea8fdcd87709e40"
+          }
+        },
+        {
+          "client_id": "403745440294-0s0hmluek1toh78b7grl9jf5v7rvog1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoGuSKlJ8YTNL2_IOU8W3mK-qb7mKPFLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403745440294-0s0hmluek1toh78b7grl9jf5v7rvog1m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "403745440294-ege80ld428c1l4bmgt6voseq6qeia4ig.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bracketssoft.bracketschat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
